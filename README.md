@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6E6FA&height=80&section=header&text=iOS%20Developer%20Joy%20Kim&fontSize=30&fontColor=ffffff&fontAlignY=50&fontWeight=bold"/>
+</h1>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
