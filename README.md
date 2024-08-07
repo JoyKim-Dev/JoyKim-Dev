@@ -1,7 +1,7 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=transparent&height=80&section=header&text=JOY%20KIM&fontSize=60&fontColor=ffffff&fontAlignY=50&fontWeight=bold&stroke=2&strokeColor=000000"/>
-</h1>
-<h2 align="center" style="color: white; font-size: 25px; margin-top: -20px;">iOS Developer</h2>
+<div align="center" style="background-color: transparent;">
+  <h1 style="color: white; font-size: 60px; text-shadow: 2px 2px 0px black;">JOY KIM</h1>
+  <h2 style="color: white; font-size: 25px; margin-top: -10px;">iOS Developer</h2>
+</div>
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -28,9 +28,9 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://iosios.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-orange" alt="Tistory" />
+    <img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge" alt="Tistory" />
   </a>&nbsp;
-  <a href="mailto:kimjoydev@gmail.com">
+  <a href="mailto:jeyey@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
