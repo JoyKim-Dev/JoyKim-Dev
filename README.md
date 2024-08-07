@@ -22,11 +22,11 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="[https://velog.io/@oka1313](https://iosios.tistory.com/)">
-    <img src=" https://img.shields.io/badge/Tistory-orange" />&nbsp
-  </a>
-  <a href="kimjoydev@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Gmail"/>&nbsp
+  <a href="https://iosios.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-orange" alt="Tistory" />
+  </a>&nbsp;
+  <a href="mailto:kimjoydev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
  
