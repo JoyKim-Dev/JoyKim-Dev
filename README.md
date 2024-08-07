@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E6E6FA&height=80&section=header&text=iOS%20Developer%20Joy%20Kim&fontSize=30&fontColor=ffffff&fontAlignY=50&fontWeight=bold"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=transparent&height=80&section=header&text=JOY%20KIM&fontSize=60&fontColor=ffffff&fontAlignY=50&fontWeight=bold&stroke=2&strokeColor=000000"/>
 </h1>
+<h2 align="center" style="color: white; font-size: 25px; margin-top: -20px;">iOS Developer</h2>
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
