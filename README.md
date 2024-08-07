@@ -26,7 +26,7 @@
     <img src=" https://img.shields.io/badge/Tistory-orange" />&nbsp
   </a>
   <a href="kimjoydev@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Gmail">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Gmail"/>&nbsp
   </a>
 </div>
  
